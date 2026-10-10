@@ -1,0 +1,5 @@
+# Ignore large database files and raw download cache
+raw_chunks/
+*.json
+*.gz
+convert_db.js
